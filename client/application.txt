@@ -1,0 +1,5 @@
+{"company_name":"mh-pizza-d\u00c3\u00b6ner","company_url":"https:\/\/www.yemeksepeti.com\/mh-pizza-doner-bahcelievler-sirinevler-mah-istanbul","application_date":"2022-03-30"}
+{"company_name":"baris-bufe-besiktas","company_url":"https:\/\/www.yemeksepeti.com\/baris-bufe-besiktas-etiler-mah-istanbul","application_date":"2022-03-30"}
+{"company_name":"lily-gelato-tatli-dondurma","company_url":"https:\/\/www.yemeksepeti.com\/lily-gelato-tatli-dondurma-besiktas-dikilitas-mah-istanbul","application_date":"2022-03-30"}
+{"company_name":"son-durak-ocakbasi-kelle-paca","company_url":"https:\/\/www.yemeksepeti.com\/son-durak-ocakbasi-kelle-paca-esenler-menderes-mah-istanbul","application_date":"2022-03-30"}
+{"company_name":"gumussuyu-et-dunyasi","company_url":"https:\/\/www.yemeksepeti.com\/gumussuyu-et-dunyasi-beykoz-gumussuyu-mah-istanbul","application_date":"2022-03-30"}
