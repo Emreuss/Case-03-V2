@@ -45,8 +45,8 @@ commentstotalbyrest=comments \
 mode = "overwrite"
 url = "jdbc:postgresql://localhost:5432/yemeksepetidb"
 properties = {"user": "postgres","password": "Pa55w.rd","driver": "org.postgresql.Driver"}
-table1="commentstotalbyrest_new"
-table2="commentswordcount_cswhen_new"
+table1="commentstotalbyrest_new_2"
+table2="commentswordcount_cswhen_new_2"
 
 commentstotalbyrest \
     .write \
